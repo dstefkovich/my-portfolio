@@ -1,4 +1,4 @@
-# David Stefkovich's Portfolio
+<!-- # David Stefkovich's Portfolio -->
 
 This is my professional portfolio. It uses AWS and ReactJS
 
@@ -6,3 +6,7 @@ This is my professional portfolio. It uses AWS and ReactJS
 
 Git and Github
 SSH
+html
+css
+Font awesome
+Google fonts
